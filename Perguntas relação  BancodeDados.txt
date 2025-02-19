@@ -1,0 +1,8 @@
+Cordialidade Mínima:
+Essa entidade é obrigatória para a outra existir?
+- Sim: a entidade recebe 1
+- Não: a entidade recebe 0
+
+Cordialidade Máxima:
+- 1: A entidade reebe 1
+-Mútiplos: Aentidade recebe N
