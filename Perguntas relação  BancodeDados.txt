@@ -4,5 +4,5 @@ Essa entidade é obrigatória para a outra existir?
 - Não: a entidade recebe 0
 
 Cordialidade Máxima:
-- 1: A entidade reebe 1
--Mútiplos: Aentidade recebe N
+- 1: A entidade recebe 1
+-Mútiplos: A entidade recebe N
